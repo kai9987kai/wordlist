@@ -52,3 +52,22 @@ For each manufacturer, we list the username first and pasword section in the fol
 * Vivotek: root/<blank>
 * Ubiquiti: ubnt/ubnt
 * Wodsee: admin/<blank>
+
+
+
+## Important Notice
+
+This repository contains collections of usernames, passwords, password dictionaries, default credentials, wordlists, and other security-related data intended primarily for:
+
+- Cybersecurity education and research
+- Defensive security testing
+- Password-strength auditing
+- Penetration testing conducted with explicit authorisation
+- Capture-the-Flag (CTF) exercises and cybersecurity laboratories
+- Testing systems, devices, networks, and accounts owned by the user
+- Academic and technical research
+- Security-tool development and evaluation
+
+Some files may contain credentials, credential patterns, default passwords, common passwords, historical password data, or material collected or derived from publicly available security datasets.
+
+**Possession of these files does not grant permission to access any computer system, account, network, service, device, or data.**
